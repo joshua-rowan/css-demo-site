@@ -66,3 +66,7 @@ a {
     text-decoration: none;
     color: #FEDB00;
 }
+
+figure {
+    margin-bottom: 40px;
+}
